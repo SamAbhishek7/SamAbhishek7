@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Abhishek</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif"/>
+
 - 🌱 I’m currently learning **ReactJS, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamAbhishek7?tab=repositories](https://github.com/SamAbhishek7?tab=repositories)
