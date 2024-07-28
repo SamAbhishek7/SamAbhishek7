@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam Abhishek</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samabhishek7" alt="samabhishek7" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamAbhishek7?tab=repositories](https://github.com/SamAbhishek7?tab=repositories)
